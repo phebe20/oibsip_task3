@@ -35,10 +35,7 @@ This project helped me understand that data cleaning involves more than removing
 
 Documenting these decisions was an important part of the process because it made the cleaning steps easier to follow and review.
 
-## Project File
-
-- amazon_products_review_cleaning.ipynb — contains the data inspection, quality checks, cleaning steps, and before-and-after comparisons.
-
+ 
  
 
  
