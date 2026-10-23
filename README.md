@@ -39,11 +39,6 @@ Documenting these decisions was an important part of the process because it made
 
 - amazon_products_review_cleaning.ipynb — contains the data inspection, quality checks, cleaning steps, and before-and-after comparisons.
 
-## How to Run the Notebook
-
-1. Open the notebook in Jupyter Notebook, JupyterLab, or Google Colab.
-2. Make sure the original dataset is available in the correct location.
-3. Install any required libraries if they are not already installed.
-4. Run the notebook cells in order.
+ 
 
  
